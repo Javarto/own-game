@@ -1,0 +1,16 @@
+.login-container, .signup-container {
+    margin-top: 150px;
+    text-align: center;
+}
+
+.login-form, .signup-form {
+    margin: 0 auto;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+}
+
+#login-button, #signup-button {
+    margin: 20px auto;
+    width: 150px;
+}
